@@ -1,4 +1,4 @@
-# vsToken & vsBound
+# vsBond
 
 第一步：复制链接 [https://dash.bifrost.finance/](https://dash.bifrost.finance/) 至浏览器打开
 

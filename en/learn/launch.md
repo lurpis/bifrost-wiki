@@ -1,16 +1,22 @@
 # Launch Phases
 
-### Asgard Testnet 
+## Asgard Testnet
+
 Completed
 
-### Rococo Testnet
+## Rococo Testnet
+
 Completed
 
-### PoA mainnet
+## PoA mainnet
+
 In progress
 
-### Kusama Parachain
+## Kusama Parachain
+
 Not yet started
 
-### Polkadot Parachain
+## Polkadot Parachain
+
 Not yet started
+
