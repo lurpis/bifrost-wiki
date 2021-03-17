@@ -34,7 +34,6 @@
   * [Balancer](research/balancer.md)
   * [Zenlink](research/zenlink.md)
 * [Publicity](publicity/README.md)
-  * [BifrostJS](publicity/history.md)
   * [Activity](publicity/activity.md)
   * [Contribute](publicity/contribute.md)
   * [Progress](publicity/progress.md)
