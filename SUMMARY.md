@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [General](en/README.md)
   * [research](en/research/README.md)
     * [Bancor](en/research/bancor.md)
     * [Balancer](en/research/balancer.md)
