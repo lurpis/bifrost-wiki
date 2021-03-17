@@ -35,7 +35,7 @@
   * [Zenlink](research/zenlink.md)
 * [Publicity](publicity/README.md)
   * [BifrostJS](publicity/history.md)
-  * [Activity  活动、新闻](publicity/activity.md)
+  * [Activity](publicity/activity.md)
   * [Contribute](publicity/contribute.md)
   * [Progress](publicity/progress.md)
   * [Committee](publicity/committee.md)
