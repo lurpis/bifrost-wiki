@@ -34,11 +34,11 @@
   * [Balancer](research/balancer.md)
   * [Zenlink](research/zenlink.md)
 * [Publicity](publicity/README.md)
+  * [Token Distribution](publicity/token.md)
   * [Activity](publicity/activity.md)
   * [Contribute](publicity/contribute.md)
   * [Progress](publicity/progress.md)
   * [Committee](publicity/committee.md)
-  * [Token Distribution](publicity/token.md)
 * [Governance](governance/README.md)
   * [Vote](governance/vote.md)
 
