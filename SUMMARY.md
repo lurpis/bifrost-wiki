@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [overview](overview.md)
 * [General](general/README.md)
   * [start](general/start/README.md)
     * [basics](general/start/basics.md)
