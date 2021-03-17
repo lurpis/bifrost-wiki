@@ -1,4 +1,4 @@
-# asgard
+# Asgard
 
 ## Build
 

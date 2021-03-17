@@ -1,4 +1,4 @@
-# rococo
+# Rococo
 
 ## Build
 
