@@ -3,7 +3,7 @@
 * [Welcome](README.md)
 * [General](general/README.md)
   * [Getting Started](general/start/README.md)
-    * [what is Bifrost?](general/start/what.md)
+    * [What is Bifrost?](general/start/what.md)
     * [How does Bifrost work?](general/start/how.md)
     * [Why Bifrost?](general/start/why.md)
     * [Why should you use Bifrost?](general/start/use.md)
